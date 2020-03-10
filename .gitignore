@@ -1,0 +1,9 @@
+.vscode
+bin
+obj
+.suo
+.vs
+node_modules
+lib
+_downloads
+package-lock.json
